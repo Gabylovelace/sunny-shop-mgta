@@ -7,9 +7,6 @@
 </div>
 
 <style>
-  :global(html) {
-    @apply bg-gradient-to-br from-pink-100 to-pink-300;
-  }
   :global(img) {
     @apply rounded-lg shadow-lg;
   }

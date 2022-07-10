@@ -1,8 +1,8 @@
 <input type="search" placeholder="buscar producto" />
 <button>Buscar</button>
 
-<h1>Sunny Shop Margarita by Gaby & Nina</h1>
-<h3>Tienda online</h3>
+<h1 style="color: #04250D;">Sunny Shop Margarita by Gaby & Nina</h1>
+<h3 style="color: #04250D;">Tienda online</h3>
 <img
   src="/tienda online.jpg"
   alt="logo de la tienda"
@@ -60,14 +60,16 @@ Próximamente contaremos con un e-commerce al cual podrás acceder a traves de
       <input type="text" placeholder="Escriba su opinión aquí..." />
       <button type="sumbmit">Enviar</button>
     </li>
-    <p>¿te pareció útil la información de la página?</p>
-
-    <li><label><input type="radio" name="opcion" /> Si</label></li>
-    <li><label><input type="radio" name="opcion" /> No</label></li>
-
-    <p>¿te pareció útil la información de la página?</p>
+    <p>¿Te pareció útil la información de la página?</p>
 
     <li><label><input type="radio" name="opcion" /> Si</label></li>
     <li><label><input type="radio" name="opcion" /> No</label></li>
   </ul>
+
+  <p>¿Qué accesorios consideras que son indispensables?</p>
+  <li><label><input type="checkbox" name="opcion" /> Anillos</label></li>
+
+  <li><label><input type="checkbox" name="lokita" /> Aretes</label></li>
 </form>
+<li><label><input type="checkbox" name="lokita" /> Collares</label></li>
+<li><label><input type="checkbox" name="lokita" /> Tobilleras</label></li>
