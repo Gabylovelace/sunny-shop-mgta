@@ -60,5 +60,14 @@ Próximamente contaremos con un e-commerce al cual podrás acceder a traves de
       <input type="text" placeholder="Escriba su opinión aquí..." />
       <button type="sumbmit">Enviar</button>
     </li>
+    <p>¿te pareció útil la información de la página?</p>
+
+    <li><label><input type="radio" name="opcion" /> Si</label></li>
+    <li><label><input type="radio" name="opcion" /> No</label></li>
+
+    <p>¿te pareció útil la información de la página?</p>
+
+    <li><label><input type="radio" name="opcion" /> Si</label></li>
+    <li><label><input type="radio" name="opcion" /> No</label></li>
   </ul>
 </form>
