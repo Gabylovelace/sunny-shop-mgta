@@ -26,3 +26,6 @@
     target="_blank">(click aquí para ver nuestro feed)</a
   >
 </p>
+<a href="https://www.instagram.com/p/CdJu2b8pCpz/"
+  ><img src="/collar.jpg" alt="accesorios" width="200" /></a
+>
