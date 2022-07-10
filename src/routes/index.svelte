@@ -1,3 +1,6 @@
+<input type="search" placeholder="buscar producto" />
+<button>Buscar</button>
+
 <h1>Sunny Shop Margarita by Gaby & Nina</h1>
 <h3>Tienda online</h3>
 <img
@@ -46,3 +49,16 @@ Próximamente contaremos con un e-commerce al cual podrás acceder a traves de
   >
   y <a href="#contactos">número telefónico</a>
 </p>
+
+<h3>Reseñas</h3>
+<form on:submit|preventDefault={() => alert("Gracias por tu comentario")}>
+  <ul>
+    <li><input type="text" placeholder="Nombre" required /></li>
+
+    <li><input type="text" placeholder="Apellido" required /></li>
+    <li>
+      <input type="text" placeholder="Escriba su opinión aquí..." />
+      <button type="sumbmit">Enviar</button>
+    </li>
+  </ul>
+</form>
