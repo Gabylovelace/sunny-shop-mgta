@@ -1,4 +1,10 @@
 <h1>Sunny Shop Margarita</h1>
+<p>
+  Correo: <a href="mailto:ivanovichrondon@gmail.com" target="_blank"
+    >ivanovichrondon@gmail.com</a
+  >
+</p>
+<p>Teléfono: <a href="tel:+584141885294" target="_blank">+584141885294</a></p>
 <h2>Tienda online</h2>
 <h3>Gaby & Nina</h3>
 <p>
@@ -12,3 +18,11 @@
   width="200"
   height="200"
 />
+
+<p>
+  Nuestra tienda comenzó como un proyecto en instagram donde se publican fotos
+  de los productos <a
+    href="https://www.instagram.com/sunny_shop.mgta/"
+    target="_blank">(click aquí para ver nuestro feed)</a
+  >
+</p>

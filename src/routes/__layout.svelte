@@ -8,6 +8,6 @@
 
 <style>
   :global(html) {
-    @apply bg-gradient-to-br from-pink-200 to-pink-300;
+    @apply bg-gradient-to-br from-pink-100 to-pink-300;
   }
 </style>
